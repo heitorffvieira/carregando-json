@@ -3,7 +3,7 @@
 
 <br/>
 
-## ⚙️ O QUE ACONTECE NO CÓDIGO JAVASCRIPT?: 
+## ⚙️ O QUE ACONTECE NO CÓDIGO JAVASCRIPT?
 #### - fetch('dados.json') faz uma requisição para obter o arquivo JSON;
 #### - then(response => response.json()) transforma a resposta em um objeto JavaScript;
 #### - .map(usuario => { ... }) percorre cada usuário e insere no HTML.
