@@ -1,0 +1,24 @@
+{
+    "usuarios": [
+        {
+            "nome": "Heitor",
+            "email": "heitor@gmail.com",
+            "idade": 18
+        }, 
+        {
+            "nome": "Sophia",
+            "email": "sophia@gmail.com",
+            "idade": 16
+        },
+        {
+            "nome": "João",
+            "email": "joao@gmail.com",
+            "idade": 20
+        },
+        {
+            "nome": "Fernando",
+            "email": "fernando@gmail.com",
+            "idade": 18
+        }
+    ]
+}

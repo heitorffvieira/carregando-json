@@ -1,0 +1,19 @@
+li {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#usuarios {
+    font-family: sans-serif;
+    margin-top: 5vh;
+    display: grid;
+    gap: 5vh;
+    justify-content: center;
+    & span {
+        font-weight: bold;
+    }
+}
